@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="4.9.0">
+    <id>Microsoft.ClearScript.V8.Native.win-x64</id>
+    <version>7.4.1</version>
+    <title>ClearScript V8 Native Library for Windows (x64)</title>
+    <authors>Microsoft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">License.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>images\ClearScript.png</icon>
+    <readme>ReadMe.md</readme>
+    <projectUrl>http://github.com/Microsoft/ClearScript</projectUrl>
+    <iconUrl>http://raw.githubusercontent.com/Microsoft/ClearScript/7.4.1/docs/ClearScript.png</iconUrl>
+    <description>A library for adding scripting to .NET applications. This package contains the native V8 JavaScript engine library for Windows (x64).</description>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>ClearScript V8 JavaScript</tags>
+  </metadata>
+</package>
